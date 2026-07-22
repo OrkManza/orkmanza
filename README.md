@@ -11,6 +11,16 @@ Cloud HR & Payroll Software for Modern Businesses.
 - Recruitment
 - Employee Self Service
 - Reports
+- hr-software
+payroll-software
+hrms
+workforce-management
+employee-management
+attendance-management
+saas
+cloud-software
+bangladesh
+payroll
 
 Website:
 https://orkmanza.com
